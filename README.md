@@ -44,3 +44,9 @@ $ firebase init
 ```shell
 $ firebase deploy
 ```
+
+### Serve and test your Firebase project locally
+
+```shell
+$ firebase serve --only hosting
+```
